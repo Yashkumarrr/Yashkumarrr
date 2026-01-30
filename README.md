@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yash Kumar
 
-**DevOps Engineer | Cloud Automation | Full-Stack Cloud Enthusiast**  
+**DevOps Engineer**  
 
 Delhi, India | [Email](mailto:kashyapy185@gmail.com) | [Phone](tel:+919716006371)  
 [GitHub](https://github.com/Yashkumarrr) | [Portfolio](https://yashkumarrr.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/yash-devopsengineer)
@@ -53,10 +53,10 @@ I am a **results-driven DevOps Engineer** with experience in managing **AWS infr
 - Automated build, test, and deployment pipelines.  
 - Integrated **DevSecOps practices** including automated security checks in the CI pipeline.
 
-### NLP Solutions Company – DevOps Intern (Present)
-- Working on a **production-level NLP solution** with real-time use cases.  
+### NPT Solutions Company – DevOps Intern (Present)
+- Working on a **production-level NPT solution** with real-time use cases.  
 - Maintaining **CI/CD pipelines using GitHub Actions**.  
-- Managing deployment pipelines for **Python-based NLP services**.  
+- Managing deployment pipelines for **Python-based NPT services**.  
 - Ensuring system stability, scalability, and secure deployments.
 
 ---
