@@ -113,14 +113,3 @@ I am a **results-driven DevOps Engineer** with experience in managing **AWS infr
 - Open-Source Contributions  
 - Personal Growth & Tech Communities  
 
----
-
-## 📊 GitHub Stats
-
-![Yash Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashkumarrr&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashkumarrr&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashkumarrr&theme=radical)
-
-
